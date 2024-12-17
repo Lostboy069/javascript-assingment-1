@@ -48,7 +48,7 @@
 
 //Question No 5
 
-//document.write("<h1>Thank you for choosing us as your next career move.We're very proud to be welcoming you to our company.</h1>")
+//document.write("<h1>We can write html code using js but I don't think it's good I still think html is required for webDevelopment.</h1>")
 
 //Chapter No 3 Variables for Numbers
 
@@ -69,9 +69,9 @@
 
 //Question No 4
 
-//var customerName = (" Mr Monis ordered \n");
-//var quantity = (2);
-//var product = ("Mind(s) on \n");
-//var store = ("Lost Brand")
+//var customerName = ("Monis ordered \n");
+//var quantity = (10);
+//var product = ("DIMAG(s) on \n");
+//var store = ("Lostsalman Brand")
 
 //document.write(customerName + quantity + product + store)
